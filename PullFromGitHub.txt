@@ -1,13 +1,22 @@
-This is below data is written in GITHUB 
----------------------------------------------------------------------------------------------
+This is below data is written in GITHUB (Created in GITHUB)
+--------------------------------------------------------
+----------> (Created in GITHUB) <------------
 Pulling Data from the GitHub to Local Repository(Git).
 This is a testing file to check whether we pull files from GitHub(Remote Repository) to Git(Local Repository).
----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 
 
-This below data is modified after pull this file from the GitHub(MOdified Data)
----------------------------------------------------------------------------------------------------------------
+This below data is modified in Lolcal system after pull this file from the GitHub(MOdified Data)
+------------------------------------------------------------------------------------
+-----------------> (Created in Local System) <------------
 After Pulling this from GITHUB.
 Adding this extra lines to send file again to github.
 When u modified any file again u have to send that file from (local Repository)GIT to GITHUB (global Repository).
+---------------------------------------------------------------------------------------------------
+
+This is Modified in GitHub after PUSH this file from the GIT(MOdified Data)
+------------------------------------------------------------------------------------------------------------
+----------> (Created in Again in GITHUB) <------------
+This is a testing file to check whether we pull files from GitHub(Remote Repository) to Git(Local Repository).
+Again Modified this text file using GITHUB.
