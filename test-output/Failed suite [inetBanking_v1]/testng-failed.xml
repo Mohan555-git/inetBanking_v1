@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Failed suite [inetBanking_v1]]">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="com.inetBanking.Utilities.Listeners"/>
+    <listener class-name="com.inetBanking.Utilities.ExtentReporterNG"/>
+  </listeners>
+  <test parallel="none" name="Bankingweb Test(failed)(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.inetBanking_testCases.TC_LoginTest_001">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.inetBanking_testCases.TC_LoginTest_001 -->
+      <class name="com.inetBanking_testCases.TC_LoginDDT_002">
+        <methods>
+          <include name="loginDDT" invocation-numbers="0 1 2 3"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.inetBanking_testCases.TC_LoginDDT_002 -->
+    </classes>
+  </test> <!-- Bankingweb Test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [inetBanking_v1]] -->

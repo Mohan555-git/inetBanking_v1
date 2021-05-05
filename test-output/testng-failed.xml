@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [inetBanking_v1]">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="com.inetBanking.Utilities.Reporting"/>
+  </listeners>
+  <test parallel="none" name="Bankingweb Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.inetBanking_testCases.TC_AddCustomerTest_003">
+        <methods>
+          <include name="addNewCustomer"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.inetBanking_testCases.TC_AddCustomerTest_003 -->
+    </classes>
+  </test> <!-- Bankingweb Test(failed) -->
+</suite> <!-- Failed suite [inetBanking_v1] -->

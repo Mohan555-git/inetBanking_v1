@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="inetBanking_v1">
+
+  <listeners>
+ <!-- <listener class-name="com.inetBanking.Utilities.Listeners"/>  --> 
+ <!-- <listener class-name="com.inetBanking.Utilities.ExtentReporterNG"/>  -->  
+      <listener class-name="com.inetBanking.Utilities.Reporting"/>  
+  </listeners>
+  <test  name="Bankingweb Test">
+    <parameter name="browser" value="chrome"></parameter>
+    <classes>
+<!--  <class name="com.inetBanking_testCases.TC_LoginTest_001"/>     --> 
+<!--  <class name="com.inetBanking_testCases.TC_LoginDDT_002"/>     -->       
+      <class name="com.inetBanking_testCases.TC_LoginTest_001"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
