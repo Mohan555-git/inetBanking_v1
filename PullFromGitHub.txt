@@ -1,0 +1,2 @@
+Pulling Data from the GitHub to Local Repository(Git)
+This is a testing file to check whether we pull files from GitHub(Remote Repository) to Git(Local Repository).
