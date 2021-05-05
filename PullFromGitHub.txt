@@ -10,4 +10,4 @@ This below data is modified after pull this file from the GitHub(MOdified Data)
 ---------------------------------------------------------------------------------------------------------------
 After Pulling this from GITHUB.
 Adding this extra lines to send file again to github.
-When u modified any file again u have to send that file from local git to global GitHub.
+When u modified any file again u have to send that file from (local Repository)GIT to GITHUB (global Repository).
