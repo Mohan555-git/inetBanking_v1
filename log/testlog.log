@@ -106,3 +106,17 @@
 2021-05-05 16:22:20,024 - ebanking -INFO - Password text box found & Entered
 2021-05-05 16:22:22,741 - ebanking -INFO - Submit button found & Clicked 
 2021-05-05 16:22:22,761 - ebanking -INFO - Login Test Passed 
+2021-05-06 12:47:22,672 - ebanking -INFO - URl is opened
+2021-05-06 12:47:22,826 - ebanking -INFO - UserName text box found & Entered
+2021-05-06 12:47:22,905 - ebanking -INFO - Password text box found & Entered
+2021-05-06 12:47:28,238 - ebanking -INFO - Submit button found & Clicked 
+2021-05-06 12:47:28,250 - ebanking -INFO - Login Test Passed 
+2021-05-06 12:50:16,066 - ebanking -INFO - UserName is provided
+2021-05-06 12:50:16,203 - ebanking -INFO - Password is provided
+2021-05-06 12:50:52,100 - ebanking -INFO - Providing Customer Deatils............
+2021-05-06 12:52:19,199 - ebanking -INFO - Validation Started.....
+2021-05-06 13:01:48,123 - ebanking -INFO - UserName is provided
+2021-05-06 13:01:48,286 - ebanking -INFO - Password is provided
+2021-05-06 13:01:54,707 - ebanking -INFO - Providing Customer Deatils............
+2021-05-06 13:02:21,016 - ebanking -INFO - Validation Started.....
+2021-05-06 13:02:21,050 - ebanking -INFO - TestCase is Passed......

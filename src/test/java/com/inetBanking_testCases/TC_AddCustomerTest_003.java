@@ -43,10 +43,11 @@ public class TC_AddCustomerTest_003 extends BaseClass{
 		
 		addcust.custPassword("asd123");
 		addcust.custSubmit();
+		log.info(" Clicked Submit Buttton.....");
 		
-		Thread.sleep(3000);
+		Thread.sleep(5000);
 		log.info("Validation Started.....");
-		boolean res = driver.getPageSource().contains("Customer1 Registered Successfully!!!");
+		boolean res = driver.getPageSource().contains("Customer Registered Successfully!!!");
 		
 		if(res==true) {
 			Assert.assertTrue(true);
