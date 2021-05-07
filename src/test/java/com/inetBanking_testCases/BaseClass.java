@@ -84,7 +84,7 @@ public class BaseClass {
 // This code we are calling browser from testng.xml file by using parameter Annotation.
 		 
 		 String br = System.getProperty("browser");
-		 
+		      
          if(br.equals("chrome"))
 		 {
 			 System.setProperty("webdriver.chrome.driver", rc.getChromePath());
