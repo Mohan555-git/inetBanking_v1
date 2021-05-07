@@ -8,9 +8,21 @@
   <test parallel="none" name="Bankingweb Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
+      <class name="com.inetBanking_testCases.TC_LoginDDT_002">
+        <methods>
+          <include name="loginDDT" invocation-numbers="1 2 3 4"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.inetBanking_testCases.TC_LoginDDT_002 -->
+      <class name="com.inetBanking_testCases.TC_LoginTest_001">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.inetBanking_testCases.TC_LoginTest_001 -->
       <class name="com.inetBanking_testCases.TC_AddCustomerTest_003">
         <methods>
-          <include name="addNewCustomer"/>
           <include name="teardown"/>
           <include name="setup"/>
         </methods>

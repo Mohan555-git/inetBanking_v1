@@ -22,6 +22,8 @@ import com.inetBanking.Utilities.ReadConfig;
 
 
 
+
+
 public class BaseClass {
 	
 	ReadConfig rc = new ReadConfig();
@@ -32,9 +34,9 @@ public class BaseClass {
 	public static WebDriver driver;
 	public static Logger log;
 	
-	@Parameters("browser")
+	//@Parameters("browser")
 	@BeforeClass
-	public void setup(String br)
+	public void setup(/*String br*/)
 	{
 		//System.setProperty("webdriver.chrome.driver", "C:\\Users\\thiru\\inetBanking_V1\\Drivers\\chromedriver.exe");
 		    //  (or)
@@ -80,6 +82,8 @@ public class BaseClass {
 		 
 		 */
 // This code we are calling browser from testng.xml file by using parameter Annotation.
+		 
+		 String br = System.getProperty("browser");
 		 
          if(br.equals("chrome"))
 		 {

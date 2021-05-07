@@ -15,7 +15,7 @@ public class TC_AddCustomerTest_003 extends BaseClass{
 	public void addNewCustomer() throws InterruptedException, IOException
 	{
 		LoginPage lp =new LoginPage(driver);
-		lp.setUserName(username);
+		lp.setUserName(username);    
 		log.info("UserName is provided");
 		lp.setPassword(password);
 		log.info("Password is provided");
