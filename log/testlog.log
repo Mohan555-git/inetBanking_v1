@@ -203,3 +203,30 @@
 2021-05-07 13:17:44,812 - ebanking -INFO - Password text box found & Entered
 2021-05-07 13:17:47,372 - ebanking -INFO - Submit button found & Clicked 
 2021-05-07 13:17:47,412 - ebanking -INFO - Login Test Passed 
+2021-05-14 15:33:18,574 - ebanking -INFO - URl is opened
+2021-05-14 15:33:18,867 - ebanking -INFO - UserName text box found & Entered
+2021-05-14 15:33:18,949 - ebanking -INFO - Password text box found & Entered
+2021-05-14 15:33:21,512 - ebanking -INFO - Submit button found & Clicked 
+2021-05-14 15:33:21,565 - ebanking -INFO - Login Test Passed 
+2021-05-14 15:33:30,687 - ebanking -INFO - Username is provided
+2021-05-14 15:33:30,766 - ebanking -INFO - Password is Provided
+2021-05-14 15:33:33,075 - ebanking -INFO - Clicked Submit Button
+2021-05-14 15:33:33,127 - ebanking -INFO - Login Passed
+2021-05-14 15:33:37,789 - ebanking -INFO - Username is provided
+2021-05-14 15:33:37,933 - ebanking -INFO - Password is Provided
+2021-05-14 15:33:38,436 - ebanking -INFO - Clicked Submit Button
+2021-05-14 15:33:41,006 - ebanking -INFO - Username is provided
+2021-05-14 15:33:41,094 - ebanking -INFO - Password is Provided
+2021-05-14 15:33:41,764 - ebanking -INFO - Clicked Submit Button
+2021-05-14 15:33:45,767 - ebanking -INFO - Username is provided
+2021-05-14 15:33:45,838 - ebanking -INFO - Password is Provided
+2021-05-14 15:33:46,412 - ebanking -INFO - Clicked Submit Button
+2021-05-14 15:33:48,729 - ebanking -INFO - Username is provided
+2021-05-14 15:33:48,856 - ebanking -INFO - Password is Provided
+2021-05-14 15:33:49,364 - ebanking -INFO - Clicked Submit Button
+2021-05-14 15:33:58,169 - ebanking -INFO - UserName is provided
+2021-05-14 15:33:58,299 - ebanking -INFO - Password is provided
+2021-05-14 15:34:04,002 - ebanking -INFO - Providing Customer Deatils............
+2021-05-14 15:34:06,248 - ebanking -INFO -  Clicked Submit Buttton.....
+2021-05-14 15:34:11,261 - ebanking -INFO - Validation Started.....
+2021-05-14 15:34:11,303 - ebanking -INFO - TestCase is Passed......

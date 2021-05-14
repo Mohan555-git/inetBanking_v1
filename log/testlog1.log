@@ -203,3 +203,30 @@
 2021-05-07 13:17:44,812 [main] INFO ebanking - Password text box found & Entered
 2021-05-07 13:17:47,372 [main] INFO ebanking - Submit button found & Clicked 
 2021-05-07 13:17:47,412 [main] INFO ebanking - Login Test Passed 
+2021-05-14 15:33:18,574 [main] INFO ebanking - URl is opened
+2021-05-14 15:33:18,867 [main] INFO ebanking - UserName text box found & Entered
+2021-05-14 15:33:18,949 [main] INFO ebanking - Password text box found & Entered
+2021-05-14 15:33:21,512 [main] INFO ebanking - Submit button found & Clicked 
+2021-05-14 15:33:21,565 [main] INFO ebanking - Login Test Passed 
+2021-05-14 15:33:30,687 [main] INFO ebanking - Username is provided
+2021-05-14 15:33:30,766 [main] INFO ebanking - Password is Provided
+2021-05-14 15:33:33,075 [main] INFO ebanking - Clicked Submit Button
+2021-05-14 15:33:33,127 [main] INFO ebanking - Login Passed
+2021-05-14 15:33:37,789 [main] INFO ebanking - Username is provided
+2021-05-14 15:33:37,933 [main] INFO ebanking - Password is Provided
+2021-05-14 15:33:38,436 [main] INFO ebanking - Clicked Submit Button
+2021-05-14 15:33:41,006 [main] INFO ebanking - Username is provided
+2021-05-14 15:33:41,094 [main] INFO ebanking - Password is Provided
+2021-05-14 15:33:41,764 [main] INFO ebanking - Clicked Submit Button
+2021-05-14 15:33:45,767 [main] INFO ebanking - Username is provided
+2021-05-14 15:33:45,838 [main] INFO ebanking - Password is Provided
+2021-05-14 15:33:46,412 [main] INFO ebanking - Clicked Submit Button
+2021-05-14 15:33:48,729 [main] INFO ebanking - Username is provided
+2021-05-14 15:33:48,856 [main] INFO ebanking - Password is Provided
+2021-05-14 15:33:49,364 [main] INFO ebanking - Clicked Submit Button
+2021-05-14 15:33:58,169 [main] INFO ebanking - UserName is provided
+2021-05-14 15:33:58,299 [main] INFO ebanking - Password is provided
+2021-05-14 15:34:04,002 [main] INFO ebanking - Providing Customer Deatils............
+2021-05-14 15:34:06,248 [main] INFO ebanking -  Clicked Submit Buttton.....
+2021-05-14 15:34:11,261 [main] INFO ebanking - Validation Started.....
+2021-05-14 15:34:11,303 [main] INFO ebanking - TestCase is Passed......
